@@ -1,4 +1,5 @@
 # https://realpython.com/python-gui-tkinter/#building-your-first-python-gui-application-with-tkinter
+# canvas doc: https://tkdocs.com/tutorial/canvas.html
 import tkinter as tk  # built-in lib in python
 
 # ############################ Tk for window (canvas)
